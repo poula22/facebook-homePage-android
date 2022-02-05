@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FaceBookHomePage</string>
+    <string name="comment">comment</string>
+    <string name="like">like</string>
+    <string name="share">share</string>
+</resources>
